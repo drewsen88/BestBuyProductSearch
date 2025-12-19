@@ -14,7 +14,7 @@ A React Native mobile application for searching and browsing products from Best 
 
 | Search Results | Product Details | Add to Cart |
 |----------------|-----------------|-------------|
-| Product list with thumbnails, titles, prices | Full product view with large image | Green "In Cart" button state |
+| ![Search Results](docs/screenshots/search-results.png) | ![Product Details](docs/screenshots/product-details.png) | ![Add to Cart](docs/screenshots/add-to-cart.png) |
 
 ## Development Tools & Dependencies
 
